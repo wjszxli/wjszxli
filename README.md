@@ -7,8 +7,8 @@
     </a>
   </div>
 
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+<div align="center"> <img src="https://metrics.lecoq.io/wjszxli?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjszxli)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=wjszxli&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 
 </div>
